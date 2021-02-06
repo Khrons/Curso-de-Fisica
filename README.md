@@ -7,11 +7,9 @@
  
 Aulas e exercícios do curso de física utilizando programação
  
- 
-## Technology 
+## Tecnologia
  
 * Python  3.9.1
-
 
 ## Serviços utilizados
  
@@ -20,43 +18,38 @@ Aulas e exercícios do curso de física utilizando programação
 * Kaggle
  
 
-## Getting started
  
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
- 
-## How to use
- 
-Here will be the images and descriptions. Principal content.
+Selecione a disciplina que deseja utilizar:
+
+[Geometria Analítica]['https://github.com/Khrons/Curso-de-Fisica/tree/main/Geometria%20Analitica']
+
+[Cálculo II A]['https://github.com/Khrons/Curso-de-Fisica/tree/main/CalculoIIA']
+[Cálculo II B]['https://github.com/Khrons/Curso-de-Fisica/tree/main/CalculoIIB']
+[Física I]['https://github.com/Khrons/Curso-de-Fisica/tree/main/Fisica%20I']
  
  
-## Features
- 
-  - Here will be the features.
- 
+
  
 ## Links
  
   - Link of deployed application: (if has been deployed)
   - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  
+  
+ 
+## Versão
+ 
+1.0
  
  
-## Versioning
+## Autor
  
-1.0.0.0
+* **Ygor Gregory**: @ygor_gregory (https://github.com/Khrons)
+
+
+Em caso de bugs ou erros, por favor me contate diretamente pelo e-mail ygorps@id.uff.br
+Também aceito contribuições e participações no projeto. Caso seja seu caso, por favor,
+me envie um e-mail. 
  
  
-## Authors
- 
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
- 
- 
-Please follow github and join us!
-Thanks to visiting me and good coding!
+Obrigado pela visita e bons estudos!
