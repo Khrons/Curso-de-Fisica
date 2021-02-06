@@ -1,12 +1,7 @@
-img.center {
-    display: block;
-    margin: 0 auto;
-}
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Khrons/Curso-de-Fisica/blob/main/img/logo-fistech.png">
+</p>
 
-<div style="border: 1px solid black;">
-<img class="center" src ="https://github.com/Khrons/Curso-de-Fisica/blob/main/img/logo-fistech.png">
-
-</div>
  
 ## Curso de Física
  
