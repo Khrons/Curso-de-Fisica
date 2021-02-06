@@ -1,0 +1,18 @@
+from math import sqrt
+import math
+
+# Inserido coordenadas dos pontos
+xA = 1
+xB = -1/2
+yA = 0
+yB = 1
+zA = -5
+zB = math.pi
+
+# Calculando a distância
+distAB = ((xA-xB)**2) + ((yA-yB)**2) + ((zA-zB)**2)
+result = sqrt(distAB)
+
+# Mostrando resultado
+print('A distância entre esses dois pontos é a raiz de:', distAB, 'unidades de medida.')
+print('Que também pode ser escrita como:', result, 'unidades de medida.')
