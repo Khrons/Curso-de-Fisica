@@ -1,4 +1,4 @@
-<img align='center' src="https://github.com/Khrons/Curso-de-Fisica/blob/main/img/logo-fistech.png">
+<img align="center" src="https://github.com/Khrons/Curso-de-Fisica/blob/main/img/logo-fistech.png">
  
 ## Curso de Física
  
