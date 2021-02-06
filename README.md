@@ -38,7 +38,7 @@ Selecione a disciplina que deseja utilizar:
  
 ## Autor
  
-* **Ygor Gregory**: @ygor_gregory (https://github.com/Khrons)
+* [**Ygor Gregory**](https://github.com/Khrons)
 
 
 Em caso de bugs ou erros, por favor me contate diretamente pelo e-mail ygorps@id.uff.br
