@@ -21,7 +21,7 @@ Aulas e exercícios do curso de física utilizando programação
  
 Selecione a disciplina que deseja utilizar:
 
-[Geometria Analítica][https://github.com/Khrons/Curso-de-Fisica/tree/main/Geometria%20Analitica]
+[Geometria Analítica](https://github.com/Khrons/Curso-de-Fisica/tree/main/Geometria%20Analitica)
 
 [Cálculo II A]['https://github.com/Khrons/Curso-de-Fisica/tree/main/CalculoIIA']
 [Cálculo II B]['https://github.com/Khrons/Curso-de-Fisica/tree/main/CalculoIIB']
