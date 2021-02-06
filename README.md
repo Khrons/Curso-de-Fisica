@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Khrons/Curso-de-Fisica/blob/main/img/logo-fistech.png">
+  <img width="250" height="250" src="https://github.com/Khrons/Curso-de-Fisica/blob/main/img/logo-fistech.png">
 </p>
 
  
