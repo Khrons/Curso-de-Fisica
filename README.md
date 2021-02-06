@@ -1,9 +1,8 @@
-![Fistech](https://github.com/Khrons/Curso-de-Fisica/blob/main/img/logo-fistech.png)
-<img src="https://github.com/Khrons/Curso-de-Fisica/blob/main/img/logo-fistech.png">
+<img align='center' src="https://github.com/Khrons/Curso-de-Fisica/blob/main/img/logo-fistech.png">
  
 ## Curso de Física
  
-... Aulas e exercícios do curso de física utilizando programação
+Aulas e exercícios do curso de física utilizando programação
  
  
 ## Technology 
