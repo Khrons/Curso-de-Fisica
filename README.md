@@ -17,7 +17,7 @@ Aulas e exercícios do curso de física utilizando programação
 * Google Colaboratory
 * Kaggle
  
-
+ 
  
 Selecione a disciplina que deseja utilizar:
 
@@ -30,14 +30,6 @@ Selecione a disciplina que deseja utilizar:
 [Física I](https://github.com/Khrons/Curso-de-Fisica/tree/main/Fisica%20I)
  
  
-
- 
-## Links
- 
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-  
-  
  
 ## Versão
  
@@ -50,7 +42,9 @@ Selecione a disciplina que deseja utilizar:
 
 
 Em caso de bugs ou erros, por favor me contate diretamente pelo e-mail ygorps@id.uff.br
+
 Também aceito contribuições e participações no projeto. Caso seja seu caso, por favor,
+
 me envie um e-mail. 
  
  
