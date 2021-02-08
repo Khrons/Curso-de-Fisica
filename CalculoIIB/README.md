@@ -3,7 +3,7 @@
 </p>
 
  
-## Curso de Física
+## Curso de Cálculo II B - Funções de uma ou mais variáveis
  
 Aulas e exercícios do curso de física utilizando programação
  
@@ -15,19 +15,18 @@ Aulas e exercícios do curso de física utilizando programação
  
 * Github
 * Google Colaboratory
-* Kaggle
  
  
  
-Selecione a disciplina que deseja utilizar:
+Selecione o que deseja utilizar:
 
-[Geometria Analítica](https://github.com/Khrons/Curso-de-Fisica/tree/main/Geometria%20Analitica)
+[Aula 1]()
 
-[Cálculo II A](https://github.com/Khrons/Curso-de-Fisica/tree/main/CalculoIIA)
+[Aula 2]()
 
-[Cálculo II B](https://github.com/Khrons/Curso-de-Fisica/tree/main/CalculoIIB)
+[Aula 3]()
 
-[Física I](https://github.com/Khrons/Curso-de-Fisica/tree/main/Fisica%20I)
+[Exercícios](https://github.com/Khrons/Curso-de-Fisica/tree/main/CalculoIIB/Exercicios)
  
  
  
