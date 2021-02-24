@@ -10,13 +10,13 @@ Aulas e exercícios do curso de física utilizando programação
 ## Tecnologia
  
 * Python  3.9.1
+* Manim
 
 ## Serviços utilizados
  
 * Github
 * Google Colaboratory
 * Kaggle
- 
  
  
 Selecione a disciplina que deseja utilizar:
